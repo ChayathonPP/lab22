@@ -97,5 +97,5 @@ int main(){
 		
 		turn_count++;
 	}
-	return 0
+	return 0;
 }
